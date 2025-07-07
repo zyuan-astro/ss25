@@ -6,5 +6,7 @@
 
 **This is the repository for all the course materials**
 
+[Slides for Day 0](https://docs.google.com/presentation/d/1_8-193h1xiCqrHkJoAMgC8bJPYjWfodLQFUBUVRSl6s/edit?usp=sharing)
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
