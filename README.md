@@ -12,7 +12,7 @@
 
 [Lecture Slides](https://box.nju.edu.cn/d/828bdc022c5543f782b0/)
 
-[Practice Slides for Day 1](https://docs.google.com/presentation/d/1UNhFgIWqrdKXlf9DHOkP9o73ccHlQ-8K3KG2-8Tlfso/edit?usp=sharing)
+[Practice Slides](https://docs.google.com/presentation/d/1UNhFgIWqrdKXlf9DHOkP9o73ccHlQ-8K3KG2-8Tlfso/edit?usp=sharing)
 
 
 
