@@ -8,6 +8,9 @@
 
 **This is the repository for all the course materials**
 
+
+[Slides for intro/review](https://docs.google.com/presentation/d/1wgLGdTo-BcjHyA_6h3aEV38B6dNTrs9jKk5q-4x2CZ8/edit?usp=sharing)
+
 [Slides for Day 0](https://docs.google.com/presentation/d/1_8-193h1xiCqrHkJoAMgC8bJPYjWfodLQFUBUVRSl6s/edit?usp=sharing) 
 
 [Lecture Slides](https://box.nju.edu.cn/d/828bdc022c5543f782b0/)
