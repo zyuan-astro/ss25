@@ -18,6 +18,5 @@
 [Practice Slides](https://docs.google.com/presentation/d/1UNhFgIWqrdKXlf9DHOkP9o73ccHlQ-8K3KG2-8Tlfso/edit?usp=sharing)
 
 
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
